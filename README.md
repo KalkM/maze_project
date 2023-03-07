@@ -1,4 +1,4 @@
-The goal of this project is to create a game in 3D using raycasting
+The goal of this project is to create a game in 3D using raycasting.
 0. Walls
 The first part,
 * Create a window with SDL2
