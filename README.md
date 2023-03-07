@@ -1,7 +1,7 @@
 The goal of this project is to create a game in 3D using raycasting
 
 Tasks
-        0. Walls!
+        0. Walls
 
 The first part,
 
@@ -29,7 +29,7 @@ In this part,
 
     * you can move the camera when the w,a,s,d keys are pressed on the keyboard.
     
-        4. Ouch!
+        4. Ouch
         
 In this part, 
 
@@ -97,8 +97,8 @@ In this part,
 In this part,
 
     * Add rain and a possibility to stop / start the rain with a key.
-
-14. Extra option
+    
+        14. Extra option
 
 In this part,
 
